@@ -91,3 +91,55 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   README.md
         new file:   answers.md
+
+
+Answer 7
+On branch master
+nothing to commit, working tree clean
+
+
+Answer 8
+commit 369018d54fe29aec31b35eee62c0a17f594e5b01 (HEAD -> master)
+Author: Nicholas Leach <nl548218@ohio.edu>
+Date:   Fri Sep 4 14:26:58 2020 -0400
+
+    Retry commit
+
+commit 35724f1d84494e3372c2c9a85480bdd3e3a18a3a
+Author: Nicholas Leach <nl548218@ohio.edu>
+Date:   Fri Sep 4 14:24:22 2020 -0400
+
+    Initial commit
+
+
+Answer 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+Answer 10
+No the file did not change in my local directory.
+
+
+Answer 11
+To https://github.com/nl548218/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/nl548218/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Answer 12
+Yes the README.md file updated in my local directory.
+
+
+Answer 13
+nl548218@DESKTOP-HG061S2:/mnt/c/Users/nicle/documents/cs2400/labs/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
+
+
